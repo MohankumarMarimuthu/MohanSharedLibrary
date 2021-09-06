@@ -1,3 +1,3 @@
 def add(x,y){
-    echo "i want to add ${x} , ${y} and the result is ${x+y}"
+    echo "sum of two values is ${x+y}"
 }
